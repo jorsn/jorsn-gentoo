@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>jo.rosenberger@gmx-topmail.de</email>
+    <name>Johannes Rosenberger</name>
+  </maintainer>
+  <longdescription lang='en'>
+    SCDM is a login manager for the console, inspired by CDM but simpler.
+    It can be used instead of DM's like xdm, kdm etc. to choose and start
+    terminal or X11 sessions.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">jorsn/scdm</remote-id>
+  </upstream>
+</pkgmetadata>
