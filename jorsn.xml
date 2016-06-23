@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="51" quality="experimental">
+    <name>jorsn</name>
+    <description>My personal overlay.</description>
+    <homepage>https://github.com/jorsn/jorsn-gentoo</homepage>
+    <owner>
+      <email>jo.rosenberger@gmx-topmail.de</email>
+      <name>jorsn</name>
+    </owner>
+    <source type="git">https://github.com/jorsn/jorsn-gentoo.git</source>
+  </repo>
+</repositories>
