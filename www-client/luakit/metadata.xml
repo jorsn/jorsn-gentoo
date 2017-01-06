@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+	<email>johannes.rosenberger@jorsn.eu</email>
+    <name>Johannes Rosenberger</name>
+  </maintainer>
+  <use>
+  	<flag name="luajit">Use the lua just-in-time compiler
+  	<pkg>dev-lang/luajit</pkg> instead of <pkg>dev-lang/lua</pkg>, which
+  	should make luakit faster.</flag>
+  	<flag name="pax_kernel">Use paxctl to mark the luakit binary.</flag>
+  </use>
+  <upstream>
+    <remote-id type="github">aidanholm/luakit</remote-id>
+  </upstream>
+</pkgmetadata>
