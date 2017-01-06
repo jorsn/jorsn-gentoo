@@ -4,7 +4,7 @@
     <description>My personal overlay.</description>
     <homepage>https://github.com/jorsn/jorsn-gentoo</homepage>
     <owner>
-      <email>jo.rosenberger@gmx-topmail.de</email>
+      <email>johannes.rosenberger@jorsn.eu</email>
       <name>jorsn</name>
     </owner>
     <source type="git">https://github.com/jorsn/jorsn-gentoo.git</source>
