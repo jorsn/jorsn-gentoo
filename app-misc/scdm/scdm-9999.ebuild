@@ -1,4 +1,4 @@
-# Copyright 1999-2016 Gentoo Foundation
+# Copyright 1999-2017 Johannes Rosenberger
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
@@ -36,7 +36,6 @@ src_install() {
 	insinto /etc/profile.d/
 	doins "${PN}.sh"
 
-	dodoc LICENSE
 	dodoc README.md
 
 	doman "${PN}.1"
